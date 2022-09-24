@@ -151,11 +151,11 @@ html, body {
 
 @media only screen and (max-width: 600px) {
   .robot svg {
-  top: 30%;
+  top: 40%;
       }
         }
 @media only screen and (max-width: 800px) {
   .robot svg {
-  top: 30%;
+  top: 40%;
             }
              }
