@@ -181,21 +181,25 @@ body {
 
 @media only screen and (max-width: 600px) {
   .robot svg {
-    top: 40%;
+    margin-bottom: 90px;
+    top: 50%;
   }
 }
 @media only screen and (max-width: 800px) {
+  .contenedor{
+    margin-bottom: 90px;
+  }
   .robot svg {
-    top: 40%;
+    top: 50%;
   }
 }
 
 @media only screen and (max-width: 380px) {
   .contenedor{
-    margin-bottom: 70px;
+    margin-bottom: 90px;
   }
   .robot svg {
-    top: 40%;
+    top: 50%;
     
   }
 }
