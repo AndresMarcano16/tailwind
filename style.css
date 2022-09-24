@@ -180,8 +180,11 @@ body {
 }
 
 @media only screen and (max-width: 600px) {
+  .contenedor{
+    margin-bottom: 90
+    ;
+  }
   .robot svg {
-    margin-bottom: 90px;
     top: 20%;
   }
 }
