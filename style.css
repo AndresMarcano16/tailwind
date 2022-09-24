@@ -194,7 +194,10 @@ body {
   }
 }
 
-@media only screen and (max-width: 380px) {
+@media only screen and (max-width: 390px) {
+  .contenedor2{
+    margin-top: 90px;
+  }
   .contenedor{
     margin-bottom: 90px;
   }
