@@ -199,7 +199,7 @@ body {
 
 @media only screen and (max-width: 390px) {
   .contenedor2{
-    background-color: aqua;
+    background: aqua;
     margin-top: 90px;
   }
   .contenedor{
